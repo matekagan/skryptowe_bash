@@ -1,0 +1,1 @@
+# skryptowe_bash
